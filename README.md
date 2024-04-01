@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Typescript and DevOps<br><br>👨‍💻 All of my projects are available at https://imshuheb.github.io/portfolio/<br><br>💬 Ask me about React,Nextjs,ExpressJs<br><br>📫 How to reach me mshuheb8@gmail.com
+🌱 I’m currently learning DevOps<br><br>👨‍💻 All of my projects are available at https://imshuheb.github.io/portfolio/<br><br>💬 Ask me about React,Nextjs,ExpressJs<br><br>📫 How to reach me mshuheb8@gmail.com
 
 
 ## 🌐 Socials:
