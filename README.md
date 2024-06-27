@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning DevOps<br><br>👨‍💻 All of my projects are available at [imshuheb.fun](https://www.imshuheb.fun/)<br><br>💬 Ask me about React,Nextjs,ExpressJs<br><br>📫 How to reach me mshuheb8@gmail.com
+🌱 I’m currently learning Angular<br><br>👨‍💻 All of my projects are available at [imshuheb.fun](https://www.imshuheb.fun/)<br><br>💬 Ask me about React,Nextjs,ExpressJs<br><br>📫 How to reach me mshuheb8@gmail.com
 
 
 ## 🌐 Socials:
