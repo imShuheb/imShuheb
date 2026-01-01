@@ -1,12 +1,35 @@
-# 💫 About Me:
-<br>👨‍💻 All of my projects are available at [imshuheb.fun](https://www.imshuheb.fun/)<br><br>💬 Ask me about React, NestJS<br><br>📫 How to reach me mshuheb8@gmail.com
+<div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Shuheb&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Building%20Scalable%20Solutions&descAlignY=52&descSize=18"/>
 
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;NestJS+%26+Microservices+Architect;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Building+Scalable+SaaS+Platforms" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/s_h_u_h_e_.b/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shuheb-86abaa1a0/) 
+  <br/>
+  
+  <!-- Profile Views & Followers -->
+  <img src="https://komarev.com/ghpvc/?username=imShuheb&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/imShuheb?tab=followers">
+    <img src="https://img.shields.io/github/followers/imShuheb?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  </a>
+  
+</div>
 
-# 💻 Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+---
 
-# Other Known Tech
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+## 👨‍💻 About Me
+
+```javascript
+const shuheb = {
+    pronouns: "He" | "Him",
+    location: "India 🇮🇳",
+    currentFocus: "Building Scalable SaaS Platforms",
+    portfolio: "[https://www.imshuheb.fun/](https://www.imshuheb.fun/)",
+    
+    askMeAbout: ["React", "NestJS", "Node.js", "System Design", "DevOps"],
+    
+    funFact: "I debug code faster than I make coffee ☕"
+};
