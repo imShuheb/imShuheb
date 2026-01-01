@@ -1,12 +1,15 @@
 <div align="center">
-  <h1>Mohammed Shuheb</h1>
-  <h3>Full Stack Developer | Building Scalable SaaS Platforms</h3>
   
-  <p align="center">
-    <a href="https://www.imshuheb.fun/">Portfolio</a> •
-    <a href="https://www.linkedin.com/in/mohammed-shuheb-86abaa1a0/">LinkedIn</a> •
-    <a href="mailto:mshuheb8@gmail.com">Email</a>
-  </p>
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Shuheb&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Building%20Scalable%20Solutions&descAlignY=52&descSize=18"/>
+
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Building+Scalable+SaaS+Platforms" alt="Typing SVG" />
+  </a>
+
+  <br/>
+  
 </div>
 
 ---
@@ -54,7 +57,7 @@ I am passionate about solving complex engineering challenges and creating seamle
 
 </div>
 
----
+<!-- ---
 
 ## 🚀 Featured Projects
 
@@ -64,7 +67,7 @@ I am passionate about solving complex engineering challenges and creating seamle
 | **Project Name 2** | Brief description of another significant project. Highlight complex features or architecture. | NestJS, PostgreSQL, Docker | [Repo](#) • [Live](#) |
 | **Project Name 3** | Another cool project or open source contribution. | TypeScript, Next.js | [Repo](#) • [Live](#) |
 
-> *Note: Please update the above "featured projects" with your actual work.*
+> *Note: Please update the above "featured projects" with your actual work.* -->
 
 ---
 
@@ -79,4 +82,10 @@ I am passionate about solving complex engineering challenges and creating seamle
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/imShuheb/imShuheb/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
