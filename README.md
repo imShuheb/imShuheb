@@ -20,9 +20,9 @@ Result-oriented **Full Stack Developer** with a focus on building high-performan
 
 I am passionate about solving complex engineering challenges and creating seamless user experiences. My current focus is on designing enterprise-grade SaaS platforms and exploring Kubernetes for container orchestration.
 
-- 🔭 Currently working on **Enterprise SaaS Platform**
-- 🌱 Deepening knowledge in **Kubernetes & System Design**
-- 🤝 Open to collaborating on **Open Source & Tech Products**
+- Currently working on **Enterprise SaaS Platform**
+- Deepening knowledge in **Kubernetes & System Design**
+- Open to collaborating on **Open Source & Tech Products**
 
 ---
 
