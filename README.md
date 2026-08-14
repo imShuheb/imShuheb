@@ -6,7 +6,7 @@
 
 Software Engineer focused on building scalable web applications, cloud-native systems, and microservice architectures.
 
-🌐 **Portfolio:** https://www.imshuheb.fun
+🌐 **Portfolio:** https://imshuheb.in
 
 </div>
 
@@ -37,7 +37,7 @@ Currently exploring Kubernetes and cloud-native technologies.
 
 ## Connect
 
-🌐 Portfolio: https://www.imshuheb.fun
+🌐 Portfolio: https://imshuheb.in
 
 💼 LinkedIn: https://www.linkedin.com/in/imshuheb
 
