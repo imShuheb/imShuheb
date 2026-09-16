@@ -4,7 +4,7 @@
 
 # Mohammed Shuheb
 
-Software Engineer focused on building scalable web applications, cloud-native systems, and microservice architectures.
+Software Engineer building scalable backend systems, cloud-native applications, and microservice architectures.
 
 🌐 **Portfolio:** https://imshuheb.in
 
@@ -14,11 +14,11 @@ Software Engineer focused on building scalable web applications, cloud-native sy
 
 ## About
 
-I'm a Software Engineer with experience building SaaS platforms, backend services, and scalable web applications using the MERN stack.
+I'm a Software Engineer with 4+ years of experience building SaaS platforms, backend services, and cloud-native applications.
 
-My interests include cloud infrastructure, distributed systems, microservices, and developer tooling.
+My core expertise includes Node.js, TypeScript, microservices, and AWS, with hands-on experience in Docker, Kubernetes, and distributed systems.
 
-Currently exploring Kubernetes and cloud-native technologies.
+I also work with AI/LLM technologies, including Python, LangChain, and semantic vector search.
 
 ---
 
@@ -31,7 +31,7 @@ Currently exploring Kubernetes and cloud-native technologies.
 
 <br/>
 
-**Cloud • Microservices • DevOps**
+**TypeScript • AWS • Docker • Kubernetes • Microservices • DevOps**
 
 ---
 
